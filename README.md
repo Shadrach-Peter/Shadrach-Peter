@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Shadrach-Peter
-- 👀 I’m interested in Frontend Development, Angular for now
-- 🌱 I’m currently learning Angular
+- 👋 Hi, I’m Chidike Shadrach
+- 👀 I’m interested in Frontend Development, React for now
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on Open Source projects
-- 📫 How to reach me email: Shadrachpeter86@gmail.com
+- 📫 How to reach me email: Shadrachpeter87@gmail.com
 
 <!---
 Shadrach-Peter/Shadrach-Peter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
