@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Chidike Shadrach
 - 👀 I’m interested in Frontend Development
 - 💞️ I’m looking to collaborate on Open Source projects
-- 📫 How to reach me email: Shadrachpeter87@gmail.com
+- 📫 How to reach me email: Shadrachpeter86@gmail.com
 
 <!---
 Shadrach-Peter/Shadrach-Peter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
